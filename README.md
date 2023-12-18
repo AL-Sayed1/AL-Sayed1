@@ -1,6 +1,6 @@
-- AI student at NVTC, Bahrain
+## 🚀 About Me
 
-<!---
-AL-Sayed1/AL-Sayed1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 Studying Artificial Intelligence at NVTC, BH.
+- 🐍 Python Enthusiast and Code Explorer.
+- 🤖 Robotics Enthusiast.
+- 💻 Experience with Python, HTML, CSS, JavaScript, SQL, and Arduino.
